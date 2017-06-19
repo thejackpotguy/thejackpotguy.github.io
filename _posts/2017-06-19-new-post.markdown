@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New Post"
+date:  2017-06-19 06:08:14 +0000
+---
+
+Had a great day yesterday, looking forward to an awesome week ahead.
+Cheers, signing out.
